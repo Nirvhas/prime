@@ -1,0 +1,20 @@
+{
+    "name": "jonnes/prime",
+    "description": "sistema para una tienda",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+    "files": [
+        "app/helpers.php"
+    ]
+
+    },
+    "authors": [
+        {
+            "name": "Nirvhas",
+            "email": "john.argenti1500@gmail.com"
+        }
+    ],
+    "require": {}
+}
