@@ -31,7 +31,7 @@
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Dropdown
                         </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <ul class="dropdown-menu text-success" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="#">Action</a></li>
                             <li><a class="dropdown-item" href="#">Another action</a></li>
                             <li>
@@ -54,7 +54,10 @@
 
     <div class="container">
         <?php echo $content; ?>
-        <p class="text-center"> Aulatec ® 2022 </p>
+        <br>
+        <p class=" text-primary text-center"> Aulatec ® 2022 </p>
+        
+
     </div>
     <!-- Optional JavaScript; choose one of the two! -->
 
